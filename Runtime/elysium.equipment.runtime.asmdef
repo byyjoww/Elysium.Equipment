@@ -1,0 +1,15 @@
+{
+    "name": "elysium.equipment.runtime",
+    "references": [
+        "GUID:2d400bc5bce43d44b85c182415c1b981"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
